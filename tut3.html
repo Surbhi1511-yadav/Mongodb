@@ -1,12 +1,39 @@
 <!-- Creation of documents, collections  -->
 <!-- 1. To check any database is present or not:
     cmd : show dbs
-Note : By default three files are present : admin, local, config  -->
+Note : By default three files are present : admin, local, config 
+>show dbs
+admin   0.000GB
+config  0.000GB
+local   0.000GB
+ -->
 
 <!-- 2. To create a new database we use : 
 use databasename 
 ex : use Surbhi then in this case Surbhi name database will be created 
 switched to db Surbhi -> display 
+> use Surbhi
+switched to db Surbhi
 
 Note : When we will write command show dbs then it will not show the above database which we have created
-to get that database visible we need to add atleast one collection in that. -->
+to get that database visible we need to add atleast one collection in that.
+>show dbs
+admin   0.000GB
+config  0.000GB
+local   0.000GB
+-->
+
+<!-- To add a single or insert a single collection 
+>db.Surbhi.insertOne({name:"Aditya", age: 24, gender:"Male" , goodMan: true})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("62264434a9f04207e0893eb3")
+}
+
+Now when we will write command show Surbhi it will show : 
+>show dbs
+Surbhi  0.000GB
+admin   0.000GB
+config  0.000GB
+local   0.000GB
+-->
