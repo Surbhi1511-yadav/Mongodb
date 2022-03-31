@@ -65,7 +65,7 @@ RDBMS
 * Table Join         
 * Primary Key        
 * Database Server and Client
-* Oracle/Mysql 
+* Oracle/Mysqld 
 
 MongoDB
 * Database
@@ -75,4 +75,4 @@ MongoDB
 * Embedded Documents
 * Primary Key(Key_id is provided by mongodb itself)
 * Database Server and Client
-* MongoDb
+* Mongod
