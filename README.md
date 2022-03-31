@@ -33,4 +33,21 @@ Example :  MongoDB
 
 2. **Graph Stores:** In this type of database the networked data is stored. In which we can relate the database with the existing data.
 
-3. **Key-Value Stores:**
+3. **Key-Value Stores:**These are the simples NOSQL database. In this data is stored with a key to identify it. In some Key-Value database we can save the type of data along with it .
+Example: Redis
+
+4. **Wide-Column Stores:**Used to store large sets of data.
+Example: Cassandra, Hbase etc.
+
+## Difference Between SQL AN NoSQL ##
+**SQL:**
+* Primarily called Relational Database.
+* Table-based database
+* Vertically Scalable
+* Example: Oracle, MS-SQL etc
+
+**NoSQL:**
+* Primilarly called non-relational or distrubted database
+* Document based, Key-Value pairsand graph Databases.
+* Horizontally scalable
+* Example: MongoDB, Cassandra, etc.
