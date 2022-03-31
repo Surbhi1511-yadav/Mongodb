@@ -14,7 +14,7 @@ Relational Database failed in solving some of the complex modern problems. Some 
 
 * Cloud Computing : Applications are beoming distrubted and many moving towards cloud computing.
 
-** Note : --> NoSQL is designed to overcome the problem faced in Relational Database and to also overcome Performance, Scalability, Data Modelling and Distrubtion limitations. **
+**Note : --> NoSQL is designed to overcome the problem faced in Relational Database and to also overcome Performance, Scalability, Data Modelling and Distrubtion limitations.**
 
 ### Structured Data ###
 * Usually text files
@@ -26,3 +26,11 @@ Relational Database failed in solving some of the complex modern problems. Some 
 * Unstrutured Data consists of E-mails, Video file, image file, Pdfs etc.
 * These Files have nothing in common.
 * Structured Information can be extracted from the unstructured data but this can be time consuming.
+
+## NO SQL DATABASE TYPES ###
+1. **Document Database:** In this the key is paired with the complex data structure called as document.
+Example :  MongoDB
+
+2. **Graph Stores:** In this type of database the networked data is stored. In which we can relate the database with the existing data.
+
+3. **Key-Value Stores:**
