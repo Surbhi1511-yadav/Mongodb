@@ -1,5 +1,3 @@
-# Mongodb
-
 ## NoSQL: ##
 * NoSQL means Not Only SQL.
 * It is a database used to manage unstructured data, where in the data is not stored in the tabular relations like relational database.
