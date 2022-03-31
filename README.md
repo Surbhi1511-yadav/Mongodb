@@ -55,3 +55,14 @@ Example: Cassandra, Hbase etc.
 * Document based, Key-Value pairsand graph Databases.
 * Horizontally scalable
 * Example: MongoDB, Cassandra, etc.
+
+### Relationship b/w RDBMS with MongoDB: ###
+RDBMS                MongoDB
+* Database           Database
+* Table              Collection
+* Tuple/Row          Document
+* Column             Field
+* Table Join         Embedded Documents
+* Primary Key        Primary Key(Key_id is provided by mongodb itself)
+*          Database Server and Client
+* Oracle/Mysql       MongoDB
