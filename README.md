@@ -21,3 +21,8 @@ Relational Database failed in solving some of the complex modern problems. Some 
 * With defined column tiles and Data in rows.
 * These Data can be visualized in the form of charts.
 * Can be processed using data mining tools.
+
+### Unstructured Data ###
+* Unstrutured Data consists of E-mails, Video file, image file, Pdfs etc.
+* These Files have nothing in common.
+* Structured Information can be extracted from the unstructured data but this can be time consuming.
