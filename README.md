@@ -14,4 +14,4 @@ Relational Database failed in solving some of the complex modern problems. Some 
 
 * Cloud Computing : Applications are beoming distrubted and many moving towards cloud computing.
 
-Note : --> NoSQL is designed to overcome the problem faced in Relational Database and to also overcome Performance, Scalability, Data Modelling and Distrubtion limitations.
+** Note : --> NoSQL is designed to overcome the problem faced in Relational Database and to also overcome Performance, Scalability, Data Modelling and Distrubtion limitations. **
