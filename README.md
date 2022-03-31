@@ -3,6 +3,7 @@
 ## NoSQL: ##
 * NoSQL means Not Only SQL.
 * It is a database used to manage unstructured data, where in the data is not stored in the tabular relations like relational database.
+* It doesn't use tables for storing data.
 * As compared to other days, we store more and more data.
 * Used to store big data and real-time web applications.
 
